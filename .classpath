@@ -8,5 +8,45 @@
 	<classpathentry kind="lib" path="lib/mariadb-java-client-2.4.1.jar"/>
 	<classpathentry kind="lib" path="lib/slf4j-api-1.7.26.jar"/>
 	<classpathentry kind="lib" path="lib/slf4j-simple-1.7.26.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sofy9/.m2/repository/org/openjfx/javafx-base/11/javafx-base-11-win.jar" sourcepath="C:/Users/sofy9/.m2/repository/org/openjfx/javafx-base/11/javafx-base-11-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.openjfx"/>
+			<attribute name="maven.artifactId" value="javafx-base"/>
+			<attribute name="maven.version" value="11"/>
+			<attribute name="maven.classifier" value="win"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/sofy9/.m2/repository/org/openjfx/javafx-fxml/11/javafx-fxml-11-win.jar" sourcepath="C:/Users/sofy9/.m2/repository/org/openjfx/javafx-fxml/11/javafx-fxml-11-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.openjfx"/>
+			<attribute name="maven.artifactId" value="javafx-fxml"/>
+			<attribute name="maven.version" value="11"/>
+			<attribute name="maven.classifier" value="win"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/sofy9/.m2/repository/org/openjfx/javafx-controls/11/javafx-controls-11-win.jar" sourcepath="C:/Users/sofy9/.m2/repository/org/openjfx/javafx-controls/11/javafx-controls-11-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.openjfx"/>
+			<attribute name="maven.artifactId" value="javafx-controls"/>
+			<attribute name="maven.version" value="11"/>
+			<attribute name="maven.classifier" value="win"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/sofy9/.m2/repository/org/openjfx/javafx-graphics/11/javafx-graphics-11-win.jar" sourcepath="C:/Users/sofy9/.m2/repository/org/openjfx/javafx-graphics/11/javafx-graphics-11-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.openjfx"/>
+			<attribute name="maven.artifactId" value="javafx-graphics"/>
+			<attribute name="maven.version" value="11"/>
+			<attribute name="maven.classifier" value="win"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
